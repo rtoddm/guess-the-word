@@ -156,6 +156,7 @@ const startOver = function () {
   playAgainButton.classList.remove("hide");
 };
 
+//Play Again Button Event Listener
 playAgainButton.addEventListener("click", function () {
   message.classList.remove("win");
   message.innerText = "";
