@@ -19,7 +19,7 @@ This is a project that I completed using HTML, CSS, Flexbox, and JavaScript.
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://rtoddm.github.io/guess-the-word/)
 
 ## My process
 
