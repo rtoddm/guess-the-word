@@ -1,3 +1,37 @@
+# Guess the Word
+
+> [!NOTE]  
+> 🎯 **Learning Project** — This Guess the Word game was built with **HTML, CSS, and JavaScript** as part of a beginner challenge on [Frontend Mentor](https://www.frontendmentor.io/).  
+> It’s archived and not actively maintained, but remains hosted on GitHub Pages to showcase my early front-end practice.
+
+---
+
+## 🌐 Live Demo
+🔗 [Play Guess the Word](https://rtoddm.github.io/guess-the-word/)
+
+---
+
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📖 About
+This project is a simple word-guessing game that highlights **basic JavaScript logic, DOM manipulation, and responsive styling**.  
+It was completed as part of a **Frontend Mentor beginner challenge**, helping me gain experience with interactivity and state handling in small, self-contained projects.  
+Although simple, it reflects an important step in my **JavaScript learning journey**.
+
+
+
+
+
+
+
+
+---
+
 ## Table of contents
 
 - [Overview](#overview)
